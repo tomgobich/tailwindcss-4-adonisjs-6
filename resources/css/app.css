@@ -2,8 +2,8 @@
 
 @theme {
   --font-sans: "Instrument Sans", "sans-serif";
-  --color-primary: "#5A45FF";
-  --color-primary-lighter: "#a599ff";
+  --color-primary: #5A45FF;
+  --color-primary-lighter: #a599ff;
   --color-sand-1: #fdfdfc;
   --color-sand-2: #f9f9f8;
   --color-sand-3: #f1f0ef;
